@@ -312,13 +312,25 @@
                             <span>Biodata</span>
                         </a>
                     </li> 
+                    <li>
+                        <a href="<?=base_url('index.php/user/gallery')?>">
+                            <i class="material-icons">photo_library</i>
+                            <span>Gallery</span>
+                        </a>
+                    </li> 
+                    <li>
+                        <a href="<?=base_url('index.php/user/event')?>">
+                            <i class="material-icons">date_range</i>
+                            <span>Event</span>
+                        </a>
+                    </li> 
                 </ul>
             </div>
             <!-- #Menu -->
             <!-- Footer -->
             <div class="legal">
                 <div class="copyright">
-                    &copy; 2016 - 2017 <a href="javascript:void(0);">User</a>
+                    &copy; 2019 - 2020 <a href="javascript:void(0);">User</a>
                 </div>
                 <div class="version">
                     <b>Version: </b> 1.0.5
